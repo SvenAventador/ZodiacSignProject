@@ -1,0 +1,14 @@
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\bin\Debug\net7.0\ZodiacSignLibrary.deps.json
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\bin\Debug\net7.0\ZodiacSignLibrary.runtimeconfig.json
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\bin\Debug\net7.0\ZodiacSignLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\bin\Debug\net7.0\ZodiacSignLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.csproj.AssemblyReference.cache
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.AssemblyInfoInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.AssemblyInfo.cs
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\refint\ZodiacSignLibrary.dll
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.pdb
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ZodiacSignLibrary.genruntimeconfig.cache
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignLibrary\obj\Debug\net7.0\ref\ZodiacSignLibrary.dll

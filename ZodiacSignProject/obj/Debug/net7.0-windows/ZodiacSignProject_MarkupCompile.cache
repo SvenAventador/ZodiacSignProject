@@ -1,0 +1,20 @@
+﻿ZodiacSignProject
+
+
+winexe
+C#
+.cs
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignProject\obj\Debug\net7.0-windows\
+ZodiacSignProject
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\sasas\OneDrive\Рабочий стол\ZodiacSignProject\ZodiacSignProject\App.xaml
+301926989108
+
+34-436284329
+224-247385952
+Pages\Admin\EditProfile\EditProfilePage.xaml;Pages\Admin\MainPage.xaml;Pages\Admin\SeeAndEditInfoAboutSign\EditInfoAboutSignPage.xaml;Pages\Admin\SeeAndEditInfoAboutSign\SeeInfoAboutSignPage.xaml;Pages\Admin\SendMessageOnOrder\ConfirmMessage.xaml;Pages\Admin\SendMessageOnOrder\SendMessageOnOrderPage.xaml;Pages\Authentication\AuthenticationPage.xaml;Pages\Authentication\RegistrationPage.xaml;Pages\Client\CreteOrder\CreateOrderPage.xaml;Pages\Client\EditProfile\EditProfilePage.xaml;Pages\Client\MainPage.xaml;Pages\Client\Signs\AboutSignsPage.xaml;Pages\Client\Signs\Air\AquariusPage.xaml;Pages\Client\Signs\Air\GeminiPage.xaml;Pages\Client\Signs\Air\LibraPage.xaml;Pages\Client\Signs\Earth\CapricornPage.xaml;Pages\Client\Signs\Earth\TaurusPage.xaml;Pages\Client\Signs\Earth\VirgoPage.xaml;Pages\Client\Signs\Fire\AriesPage.xaml;Pages\Client\Signs\Fire\LeoPage.xaml;Pages\Client\Signs\Fire\SagittariusPage.xaml;Pages\Client\Signs\Water\CancerPage.xaml;Pages\Client\Signs\Water\PiscesPage.xaml;Pages\Client\Signs\Water\ScorpioPage.xaml;Pages\MainInfo\FirstPartInfo.xaml;Pages\MainInfo\SecondPartInfo.xaml;Windows\AdminWindow.xaml;Windows\ClientWindow.xaml;Windows\MainWindow.xaml;Windows\RegAuthWindow.xaml;
+
+False
+
